@@ -3,7 +3,7 @@
 Este repositório contém as políticas de segurança da informação desenvolvidas como parte de um trabalho acadêmico da disciplina Sistemas Computacionais e Segurança. As políticas abordam os seguintes tópicos essenciais:
 
 ## 1. Acesso e Controle de Usuários
-- Contas individuais com **senha forte** (mín. 12 caracteres, letras, números e símbolos) e **2FA**.
+- Contas individuais com **senha forte** e **2FA**.
 - Troca de senha a cada 90 dias; desativação após 30 dias de inatividade.
 - Privilégios mínimos para cada função; acesso administrativo sob autorização formal.
 
