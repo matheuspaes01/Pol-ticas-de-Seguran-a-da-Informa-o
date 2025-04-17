@@ -1,9 +1,9 @@
 # Políticas de Segurança da Informação
 
-Repositório com as políticas essenciais para proteção da informação na TechPlus Soluções Digitais.
+Repositório com as políticas essenciais para proteção da informação.
 
 ## 1. Acesso e Controle de Usuários
-- Contas individuais com **senha forte** (mín. 12 caracteres, letras, números e símbolos) e **2FA**.
+- Contas individuais com **senha forte** e **2FA**.
 - Troca de senha a cada 90 dias; desativação após 30 dias de inatividade.
 - Privilégios mínimos para cada função; acesso administrativo sob autorização formal.
 
